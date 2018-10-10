@@ -1,0 +1,13 @@
+﻿Was fairly easy to create the organization
+
+
+Roles didn’t quite match up with what was requested. We were able to add a maintainer but not able to set a contributor.
+
+
+We thought it was interesting that you can close issues in a pull request by saying “closes #i” where i is the number of the issue
+
+
+We see how in a real life scenario the maintainer may not accept the PR and we may have to make changes.
+
+
+We had a merge conflict when working in parallel but it was fairly easy to fix
