@@ -1,4 +1,4 @@
 Broccoli [vegetable]
 Cheese [dairy]
-Rice [grain]
 Chicken [poultry]
+Rice [grain]
